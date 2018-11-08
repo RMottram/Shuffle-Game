@@ -1,0 +1,51 @@
+C:\Users\94826\Desktop\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.ShuffleGame.resources
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Resources.resources
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.GenerateResource.Cache
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.xml
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
+\\GYC-FileServer\Students\IT\94826\Year 2\Unit 14 - EDP\Visual Studio Work\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.HelpScreen.resources
+G:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
+G:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+G:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+G:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.xml
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.HelpScreen.resources
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.ShuffleGame.resources
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Resources.resources
+G:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.GenerateResource.Cache
+D:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.HelpScreen.resources
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.ShuffleGame.resources
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Resources.resources
+D:\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.GenerateResource.Cache
+D:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+D:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+D:\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.xml
+U:\Year 2\Unit 14 - EDP\Visual Studio Work\Ryan\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+U:\Year 2\Unit 14 - EDP\Visual Studio Work\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+U:\Year 2\Unit 14 - EDP\Visual Studio Work\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
+U:\Year 2\Unit 14 - EDP\Visual Studio Work\Ryan\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
+W:\College\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+W:\College\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.exe
+W:\College\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.pdb
+W:\College\ShuffleGame\ShuffleGame\bin\Debug\ShuffleGame.xml
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbprojAssemblyReference.cache
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.HelpScreen.resources
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.ShuffleGame.resources
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.Resources.resources
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.GenerateResource.cache
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.CoreCompileInputs.cache
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
+W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
