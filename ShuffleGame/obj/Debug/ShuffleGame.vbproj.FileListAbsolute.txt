@@ -49,3 +49,16 @@ W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.vbproj.CoreCompileInput
 W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.exe
 W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.xml
 W:\College\ShuffleGame\ShuffleGame\obj\Debug\ShuffleGame.pdb
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\bin\Debug\ShuffleGame.exe.config
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\bin\Debug\ShuffleGame.exe
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\bin\Debug\ShuffleGame.pdb
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\bin\Debug\ShuffleGame.xml
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.vbprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.HelpScreen.resources
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.ShuffleGame.resources
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.Resources.resources
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.exe
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.xml
+\\Mac\Home\Documents\GitHub\Shuffle-Game\ShuffleGame\obj\Debug\ShuffleGame.pdb
